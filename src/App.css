@@ -1,0 +1,46 @@
+#root {
+  margin: 0 auto;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+}
+
+/* CSS */
+.button-3 {
+  display: inline-block;
+  outline: 0;
+  border: none;
+  cursor: pointer;
+  line-height: 1.2rem;
+  font-weight: 900;
+  background: #007a5a;
+  padding: 8px 14px 9px;
+  font-size: 15px;
+  border-radius: 4px;
+  color: #fff;
+  height: 36px;
+  transition: all 75ms ease-in-out;
+  :hover {
+    box-shadow: 0 1px 4px rgb(0 0 0 / 30%);
+  }
+}
+
+.button-4 {
+  display: inline-block;
+  outline: 0;
+  border: none;
+  cursor: pointer;
+  line-height: 1.2rem;
+  font-weight: 900;
+  background: #7a0020;
+  padding: 8px 14px 9px;
+  font-size: 15px;
+  border-radius: 4px;
+  color: #fff;
+  height: 36px;
+  transition: all 75ms ease-in-out;
+  :hover {
+    box-shadow: 0 1px 4px rgb(0 0 0 / 30%);
+  }
+}
+
